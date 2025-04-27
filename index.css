@@ -1,0 +1,65 @@
+body {
+    font-family: cursive;
+    background-color: darkmagenta;
+    margin: 20px;
+    color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+form {
+    max-width: 600px;
+    margin: 20px;
+    padding: 40px;
+    background-color: lemonchiffon;
+    border-radius: 10px;
+}
+
+form input, form button {
+    display: block;
+    width: 100%;
+    padding: 9px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 9px;
+}
+
+form button {
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+ul {
+    padding: 0;
+    margin-top: 20px;
+}
+li {
+    background-color: purple;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+li button {
+    background-color: crimson;
+    color:wheat;
+    padding: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+form button:hover {
+    background-color: antiquewhite;
+}
+
+li button:hover {
+    background-color: crimson; 
+}
