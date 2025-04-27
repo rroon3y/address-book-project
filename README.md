@@ -10,6 +10,11 @@ This application helps users manage their contacts in an address book and track 
 - Simply clone or download the repository to your local machine.
 - Open the `index.html` file in your browser to run the application.
 
+## Live Links  
+- [GitHub Repository](https://rroon3y.github.io/address-book-project/)  
+- [Deployed on Vercel](https://address-book-project-sigma.vercel.app/)
+
+
 ## Known Bugs  
 None
 
