@@ -1,3 +1,31 @@
+# Address Book & Places You've Been  
+#### A project to manage contacts and log visited places, Version 1.0, April 2025  
+#### By **Rooney**
+
+## Description  
+This application helps users manage their contacts in an address book and track the places they have visited. Users can add contacts with details like name, phone number, and email, while also logging places they have been, including location, landmarks, and personal notes.
+
+## Setup/Installation Requirements  
+- No specific server setup required.
+- Simply clone or download the repository to your local machine.
+- Open the `index.html` file in your browser to run the application.
+
+## Known Bugs  
+None
+
+## Technologies Used  
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
+
+## Support and Contact Details  
+Feel free to reach out to me via email at alexrooney2016@gmail.com if you have any questions or suggestions.
+
+### License  
+MIT License - Copyright (c) 2025 Rooney
+
+---
+
 # Address Book Project
 
 ## Business Logic Tests
